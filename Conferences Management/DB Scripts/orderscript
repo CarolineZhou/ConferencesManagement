@@ -1,0 +1,12 @@
+Order of Script:
+
+project_account.sql
+project_conference.sql
+project_conference_attendees.sql
+project_journal.sql
+project_journal_authors.sql
+project_conference_journals.sql
+
+
+
+
